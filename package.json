@@ -8,7 +8,7 @@
     "license": "MIT",
     "private": false,
     "scripts": {
-      "start": "node index.html"
+      "start": "node app.js"
     },
     "dependencies": {
       "express": "^5.0.0"
